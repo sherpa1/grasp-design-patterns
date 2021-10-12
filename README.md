@@ -1,6 +1,6 @@
-# Course management software with TypeScript
+# GRASP Design Patterns with TypeScript
 
-Bonnes pratiques de Programmation Orientée Objet illustrée avec TypeScript.
+General Responsibility Assignment Software Patterns by Craig Larman.
 
 ## Sujet
 
