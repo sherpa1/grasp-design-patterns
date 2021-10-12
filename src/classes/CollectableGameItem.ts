@@ -19,6 +19,9 @@ export default class CollectableGameItem
     this._position = position;
     this._on_board = on_board;
   }
+  collect() {
+    throw new Error("Method not implemented.");
+  }
 
   get on_board(): boolean {
     throw new Error("Method not implemented.");
